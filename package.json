@@ -1,0 +1,28 @@
+{
+  "name": "dsi-mongoose-auto-increment",
+  "version": "0.0.0",
+  "description": "auto increment plugin for mongoose model",
+  "main": "./index.js",
+  "keywords": [
+    "dsi",
+    "mongoose",
+    "autoincrement",
+    "auto-increment"
+  ],
+  "author": "Mushraful Hoque Anik <anikgnr@gmail.com>",
+  "dependencies": {
+    "mongoose": "^4.7.3"
+  },
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DSInnovators/dsi-mongoose-auto-increment.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DSInnovators/dsi-mongoose-auto-increment/issues"
+  },
+  "homepage": "https://github.com/DSInnovators/dsi-mongoose-auto-increment",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
