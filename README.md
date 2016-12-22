@@ -15,13 +15,13 @@ npm install --save dsi-mongoose-auto-increment
 var mongoose = require('mongoose');
 var dincrement = require('dsi-mongoose-auto-increment');
 
-for global:
+//for global:
 mongoose.plugin(dincrement);
 
-for individual model:
+//for individual model:
 CustomSchema.plugin(dincrement);
 
-for custom property in your model:
+//for custom property in your model:
 CustomSchema.plugin(dincrement, {column: '_ColumnName_'});
 
 
