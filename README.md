@@ -1,4 +1,4 @@
-# DSi-Mongoose Auto-Increment
+# DSi-Mongoose-Auto-Increment
 
 [![NPM version][npm-image]][npm-url]
 
