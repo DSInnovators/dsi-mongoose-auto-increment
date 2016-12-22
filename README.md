@@ -1,5 +1,6 @@
 # DSi-Mongoose Auto-Increment
 
+[![NPM version][npm-image]][npm-url]
 
 Mongoose plugin for auto-increment number ID.
 
@@ -30,3 +31,6 @@ CustomSchema.plugin(dincrement, {column: '_ColumnName_'});
 ## License
 
 ISC © [Mushraful Hoque Anik]
+
+[npm-image]: https://img.shields.io/npm/v/dsi-mongoose-auto-increment.svg?style=flat-square
+[npm-url]: https://www.npmjs.com/package/dsi-mongoose-auto-increment
